@@ -20,6 +20,7 @@
         "php": ">=7.1",
         "react/http": "^1.11",
         "react/promise": "^3.2 || ^2.1 || ^1.2",
+        "laminas/laminas-diactoros": "^3.5 || ^2.4",
         "ext-soap": "*"
     },
     "require-dev": {
